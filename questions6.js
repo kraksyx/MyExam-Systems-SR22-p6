@@ -7,7 +7,7 @@ const questions = [
   {
     "question": "262. What is the turning radius for the inside gear?",
     "options": ["2.0 ft", "0.5 ft", "1.0 ft", "1.5 ft"],
-    "correct": 2
+    "correct": 1
   },
   {
     "question": "263. What is the turning radius for the outside gear?",
@@ -42,7 +42,7 @@ const questions = [
   {
     "question": "269. What type of brakes do the main wheels have?",
     "options": ["Mechanically operated, dual-disc brakes", "Hydraulically operated, single-disc brakes", "Mechanically operated, single-disc brakes", "Hydraulically operated, dual-disc brakes"],
-    "correct": 3
+    "correct": 1
   },
   {
     "question": "270. How are the brakes on the main wheels activated?",
@@ -137,7 +137,7 @@ const questions = [
   {
     "question": "288. What type of alternator is Alternator 1 (ALT 1), and where is it mounted?",
     "options": ["Belt-driven, 70-amp, mounted on the left front of the engine", "Gear-driven, 100-amp, mounted on the right front of the engine", "Gear-driven, 100-amp, mounted on the left front of the engine", "Belt-driven, 70-amp, mounted on the right front of the engine"],
-    "correct": 2
+    "correct": 1
   },
   {
     "question": "289. What type of alternator is Alternator 2 (ALT 2), and where is it mounted?",
@@ -147,7 +147,7 @@ const questions = [
   {
     "question": "290. What is the regulated voltage for Alternator 1 (ALT 1)?",
     "options": ["29.0 volts", "28.7 volts", "28.0 volts", "27.7 volts"],
-    "correct": 2
+    "correct": 3
   },
   {
     "question": "291. What is the regulated voltage for Alternator 2 (ALT 2)?",
@@ -187,7 +187,7 @@ const questions = [
   {
     "question": "298. Where is the inlet for the stall warning system located?",
     "options": ["In the trailing edge of the right wing", "In the leading edge of the right wing", "In the leading edge of the left wing", "On the fuselage"],
-    "correct": 2
+    "correct": 1
   },
   {
     "question": "299. What type of warning does the avionics system provide as part of the stall warning system?",
@@ -260,3 +260,4 @@ const questions = [
     "correct": 3
   },
 ];
+
